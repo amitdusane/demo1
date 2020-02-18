@@ -12,5 +12,6 @@ public class Main {
                 .max()
                 .orElse(0);
         System.out.println(longest);
+        System.out.println("Finished");
     }
 }
